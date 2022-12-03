@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: ayaba25/handson
+      - image: ayaba25/handson:latest
         name: springboot
         ports:
         - name: springboot
